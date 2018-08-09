@@ -1,0 +1,23 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "node搭建一个静态资源服务",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richness/node-press.git"
+  },
+  "author": "chenxinhui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/richness/node-press/issues"
+  },
+  "homepage": "https://github.com/richness/node-press#readme",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "supervisor": "^0.12.0"
+  }
+}
