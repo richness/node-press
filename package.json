@@ -18,6 +18,7 @@
   "homepage": "https://github.com/richness/node-press#readme",
   "dependencies": {
     "chalk": "^2.4.1",
+    "puppeteer": "^1.6.2",
     "supervisor": "^0.12.0"
   }
 }
